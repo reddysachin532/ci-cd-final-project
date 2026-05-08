@@ -13,4 +13,4 @@ This project is a DevOps Capstone Assignment.
 
 ## Build Status
 
-![Build Status](https://github.com/reddysachin532/ci-cd-final-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/reddysachin532/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)
